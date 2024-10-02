@@ -1,27 +1,24 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Pallavi+Negi...;This+is+my+profile!&center=true&size=30">
+  </a>
+</h1>
 
-<br clear="both">
+### Hi there 👋
 
-<p align="center">Hello World!!</p>
-
-###
+- 🌱 I’m currently learning C, Web Development.
+- ⚡ In my free time I read religion books.
+- ✨ Hobbies - singing.
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/Negipallavi/count.svg?"  />
-
-###
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="27" alt="linkedin logo"  href="">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="27" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="27" alt="gmail logo"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -35,8 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28" alt="bootstrap logo"  />
 </div>
 
-###
+<br>
 
+<img align="left" src="https://profile-counter.glitch.me/Negipallavi/count.svg?"  />
+<br>
+
+###
 <br clear="both">
 
 <div align="center">
